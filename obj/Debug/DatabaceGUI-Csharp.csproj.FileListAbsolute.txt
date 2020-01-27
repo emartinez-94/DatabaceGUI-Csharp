@@ -1,0 +1,51 @@
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.exe.config
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.exe
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.pdb
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Properties.Resources.resources
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.exe
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.pdb
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Form1.resources
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\MySql.Data.dll
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\bin\Debug\MySql.Data.xml
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.student_Search.resources
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csproj.CopyComplete
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\Student_Display.Student.resources
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Student.resources
+C:\Users\Admin\source\repos\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.student_courses_display.resources
+D:\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.exe.config
+D:\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.exe
+D:\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.pdb
+D:\DatabaceGUI-Csharp\bin\Debug\Google.Protobuf.dll
+D:\DatabaceGUI-Csharp\bin\Debug\Renci.SshNet.dll
+D:\DatabaceGUI-Csharp\bin\Debug\BouncyCastle.Crypto.dll
+D:\DatabaceGUI-Csharp\bin\Debug\MySql.Data.xml
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csprojAssemblyReference.cache
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Student.resources
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Form1.resources
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Properties.Resources.resources
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.student_courses_display.resources
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csproj.GenerateResource.cache
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csproj.CopyComplete
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.exe
+D:\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.pdb
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.exe.config
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.exe
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\DatabaceGUI-Csharp.pdb
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\Google.Protobuf.dll
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\Renci.SshNet.dll
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\bin\Debug\MySql.Data.xml
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csprojAssemblyReference.cache
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Student.resources
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Form1.resources
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.Properties.Resources.resources
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI_Csharp.student_courses_display.resources
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csproj.GenerateResource.cache
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.csproj.CopyComplete
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.exe
+C:\Users\HAZAMA\Documents\Visual Studio 2019\DatabaceGUI-Csharp\obj\Debug\DatabaceGUI-Csharp.pdb
